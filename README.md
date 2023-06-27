@@ -13,12 +13,16 @@ Sebelum menjalankan proyek ini, pastikan sistem Anda telah terpasang:
 
 Berikut adalah langkah-langkah untuk menjalankan proyek:
 
+
 1.Masuk ke direktori proyek:
 cd bookshelf-api
+
 2.Instal dependensi proyek:
 npm install
+
 3.Jalankan server:
 npm run start
+
 4.Server akan berjalan pada http://localhost:9000.
 
 Anda sekarang dapat menggunakan API Bookshelf menggunakan alamat URL tersebut.
